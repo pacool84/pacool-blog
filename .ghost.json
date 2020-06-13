@@ -1,0 +1,12 @@
+{
+  "development": {
+    "apiUrl": "https://pacool-blog.herokuapp.com",
+    "contentApiKey": "e6de0b2bdd4c973b47b619089a",
+    "version": "v3"
+  },
+  "production": {
+    "apiUrl": "https://pacool-blog.herokuapp.com",
+    "contentApiKey": "e6de0b2bdd4c973b47b619089a",
+    "version": "v3"
+  }
+}
